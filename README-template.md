@@ -24,10 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/N-i-s-h-a-n-t/Results-summary-component/assets/88312394/74b150f4-42bb-4583-b538-6bba642d8d16)
 
 ### Links
 
-- Live Site URL: [Results summary component](https://your-live-site-url.com)
+- Live Site URL: [Results summary component](https://n-i-s-h-a-n-t.github.io/Results-summary-component/)
 
 ## My process
 
